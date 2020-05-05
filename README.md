@@ -1,4 +1,4 @@
-# deribit-v2-ws
+# deribit-ws-DOA
 
 Deribit V2 API WS RPC wrapper.
 
