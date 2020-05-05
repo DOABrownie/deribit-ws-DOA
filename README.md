@@ -1,6 +1,8 @@
 # deribit-ws-DOA
 
-Deribit V2 API WS RPC wrapper.
+Deribit V2 doa wrapper
+
+im trying to console lod my keys adn things to determine why i get the crashes i am experiencing. thats why i have cpoied this over
 
 [Docs are here](https://docs.deribit.com/v2/?javascript#deribit-api-v2-0-0).
 
