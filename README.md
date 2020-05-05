@@ -17,7 +17,7 @@ Work in progress/not finished!
 
 See more examples in `example.js`.
 
-    const Deribit = require('deribit-v2-ws');
+    const Deribit = require('deribit-ws-doa');
 
     const key = 'x';
     const secret = 'y';
