@@ -1,7 +1,7 @@
 {
-  "name": "deribit-v2-ws",
-  "version": "1.0.8",
-  "description": "deribit v2 ws api wrapper",
+  "name": "deribit-ws-doa",
+  "version": "1",
+  "description": "deribit ws api wrapper",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,10 +11,7 @@
     "url": "git+https://github.com/askmike/deribit-v2-ws.git"
   },
   "keywords": [
-    "deribit",
-    "wrapper",
-    "v2",
-    "api"
+    "doa",
   ],
   "author": "",
   "license": "MIT",
